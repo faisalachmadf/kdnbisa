@@ -1,0 +1,4 @@
+# (Cek Eror Login) -> Controller Auth/Login, View Login
+# (MVC disesuaikan) -> nama Folder, Controler, Model, View disesuaikan
+# (Hak Akses) -> Root, Admin, Staff, Kabag, Karo
+# (Start) -> mulai Buat Sistem seusai Alur
